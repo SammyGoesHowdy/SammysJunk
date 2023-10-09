@@ -21,7 +21,7 @@ If you are on Wii U in the Aroma environment, you can load the Wii U forwarder o
 
 * If you have not yet installed Aroma, here is a [guide](https://wiiu.hacks.guide/#/aroma/getting-started) to do so.
 
-* If you don't have the Priiloader Wii U Forwarder, you can get it [here.](github.com/DacoTaco/priiloader/releases/latest)
+* If you don't have the Priiloader Wii U Forwarder, you can get it [here.](https://github.com/DacoTaco/priiloader/releases/latest)
 
 1. After doing the method for your console to enter Priiloader, you should be on a screen like the image below.
 <img src="https://github.com/SammyGoesHowdy/WADs/assets/105883916/aeaf80fc-42c9-4a49-82a7-f52af622b960"  width="320" height="240" />
