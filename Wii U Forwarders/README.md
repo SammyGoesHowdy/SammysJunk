@@ -5,15 +5,13 @@ Boot2vWii boots a channel installed onto your Wii Menu, so you need the ones I u
 
 **[NOTE: I will NOT help with piracy.]**
 
-USB Loader GX (UNEO) 
+USB Loader GX (UNEO) -
 You can obtain [here.](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad/download)
 
-WiiFlow (BFLW)
+WiiFlow (BFLW) -
 You can obtain [here.](https://github.com/SammyGoesHowdy/WADs/raw/main/WADs/vWii/emilydaemons%20WiiFlow%20WAD(vWii).wad)
 
-CTGP-Revolution (RMCX)
+CTGP-Revolution (RMCX) -
 You can obtain via the [CTGP-R](https://www.chadsoft.co.uk) Channel homebrew app.
 
-The Homebrew Channel 
-
-Install HBC on vWii with the Compat Installer.
+The Homebrew Channel - Install HBC on vWii with the Compat Installer.
