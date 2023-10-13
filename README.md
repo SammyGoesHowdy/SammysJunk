@@ -8,15 +8,17 @@ To install the WADs & Wii Homebrew here, you need to have your [Wii](https://wii
 
 ✅If it was installed correctly, you should see it on your Wii Menu.
 
-❌If you see a "The System Files are corrupted." error on any WADs here... then don't worry! If you've installed Priiloader before this, you can fix it!
+❌If you see a "The System Files are corrupted." error on any WADs here... then don't worry! You have some recovery options.
 
 # Uninstalling WADs Guide (In case you were bricked)
 
-**Section I - Entering HBC**
+**Section I - Entering HBC - Priiloader**
 
 If you are on Wii, you can enter Priiloader in this state by holding RESET on the console while turning it on.
+  - If you do not have priiloader, ya dun goofed. But you can skip to `Section I - Entering HBC - Wii (no priiloader)
 
 If you are on Wii U in the Aroma environment, you can load the Wii U forwarder on your Wii U Menu.
+  - If you do not have priiloader, and are using a Wii U follow `Section I - Entering HBC - vWii (no priiloader)
 
 
 * If you have not yet installed Aroma, here is a [guide](https://wiiu.hacks.guide/#/aroma/getting-started) to do so.
@@ -28,7 +30,19 @@ If you are on Wii U in the Aroma environment, you can load the Wii U forwarder o
 
 2. Navigate down to "Homebrew Channel" and press (A)
 
-Section II - Uninstalling WADs
+**Section I - Entering HBC - Wii (no priiloader)**
+1. Follow [this guide](https://wii.hacks.guide/bluebomb) until step 13, then come back here. Ensure you do not press A on the Health and Safety screen.
+
+2. Once you are in the hackmii installer, exit it, you should now be in the HBC, continue to Section II
+
+**Section I - Entering HBC - vWii (no priiloader)**
+1. Aroma: Download [this boot2vwii forwarder (this is safe, I promise)](Wii U Forwarders/boot2hbc.wuhb)
+  - Tiramisu: Download [hblc2hbc](https://github.com/FIX94/hbl2hbc/releases) (just the .elf)
+2. Place it in `wiiu/apps`
+
+3. Open it and you should be taken to the HBC, once it does, continue to Section II
+
+**Section II - Uninstalling WADs**
 1. Select YAWM ModMii Edition (yawmME for short) from the list of homebrew.
 
 2. Select your source device.
