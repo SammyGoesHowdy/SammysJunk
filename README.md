@@ -15,10 +15,10 @@ To install the WADs & Wii Homebrew here, you need to have your [Wii](https://wii
 **Section I - Entering HBC - Priiloader**
 
 If you are on Wii, you can enter Priiloader in this state by holding RESET on the console while turning it on.
-  - If you do not have priiloader, ya dun goofed. But you can skip to `Section I - Entering HBC - Wii (no priiloader)
+  - If you do not have Priiloader, ya dun goofed. But you can skip to `Section I - Entering HBC - Wii (no Priiloader)`
 
 If you are on Wii U in the Aroma environment, you can load the Wii U forwarder on your Wii U Menu.
-  - If you do not have priiloader, and are using a Wii U follow `Section I - Entering HBC - vWii (no priiloader)
+  - If you do not have Priiloader, and are using a Wii U follow `Section I - Entering HBC - vWii (no Priiloader)`
 
 
 * If you have not yet installed Aroma, here is a [guide](https://wiiu.hacks.guide/#/aroma/getting-started) to do so.
@@ -30,13 +30,13 @@ If you are on Wii U in the Aroma environment, you can load the Wii U forwarder o
 
 2. Navigate down to "Homebrew Channel" and press (A)
 
-**Section I - Entering HBC - Wii (no priiloader)**
+**Section I - Entering HBC - Wii (no Priiloader)**
 1. Follow [this guide](https://wii.hacks.guide/bluebomb) until step 13, then come back here. Ensure you do not press A on the Health and Safety screen.
 
-2. Once you are in the hackmii installer, exit it, you should now be in the HBC, continue to Section II
+2. Once you are in the HackMii installer, exit it, you should now be in the HBC, continue to Section II
 
-**Section I - Entering HBC - vWii (no priiloader)**
-1. Aroma: Download [this boot2vwii forwarder (this is safe, I promise)](Wii U Forwarders/boot2hbc.wuhb)
+**Section I - Entering HBC - vWii (no Priiloader)**
+1. Aroma: Download [this Boot2vWii forwarder](https://github.com/SammyGoesHowdy/SammysJunk/raw/main/Wii%20U%20Forwarders/HBC.wuhb)
   - Tiramisu: Download [hblc2hbc](https://github.com/FIX94/hbl2hbc/releases) (just the .elf)
 2. Place it in `wiiu/apps`
 
@@ -60,4 +60,4 @@ Once it's uninstalled, Press (A) to go back, then press HOME to return to HBC. I
 
 ✅ Your Wii should now be unbricked!
 
-ℹ If you want, tell me what WAD bricked you and what console you installed it in my [Discord Server](https://discord.gg/sUCdKT6P).
+ℹ If you want, tell me what WAD bricked you and what console you installed it on in my [Discord Server](https://discord.gg/sUCdKT6P).
