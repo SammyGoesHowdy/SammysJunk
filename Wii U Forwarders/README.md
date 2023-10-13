@@ -13,3 +13,6 @@ You can obtain [here.](https://github.com/SammyGoesHowdy/WADs/raw/main/WADs/vWii
 
 CTGP-Revolution (RMCX)
 You can obtain via the [CTGP-R](https://www.chadsoft.co.uk) Channel homebrew app.
+
+The Homebrew Channel 
+Install HBC on vWii with the Compat Installer.
