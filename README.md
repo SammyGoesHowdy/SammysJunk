@@ -37,7 +37,7 @@ If you are on Wii U in the Aroma environment, you can load the Wii U forwarder o
 
 **Section I - Entering HBC - vWii (no Priiloader)**
 1. Aroma: Download [this Boot2vWii forwarder](https://github.com/SammyGoesHowdy/SammysJunk/raw/main/Wii%20U%20Forwarders/HBC.wuhb)
-  - Tiramisu: Download [hblc2hbc](https://github.com/FIX94/hbl2hbc/releases) (just the .elf)
+  - Tiramisu: Download [hbl2hbc](https://github.com/FIX94/hbl2hbc/releases) (just the .elf)
 2. Place it in `wiiu/apps`
 
 3. Open it and you should be taken to the HBC, once it does, continue to Section II
