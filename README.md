@@ -60,4 +60,4 @@ Once it's uninstalled, Press (A) to go back, then press HOME to return to HBC. I
 
 ✅ Your Wii should now be unbricked!
 
-ℹ If you want, tell me what WAD bricked you and what console you installed it on in my [Discord Server](https://discord.gg/sUCdKT6P).
+ℹ If you want, tell me what WAD bricked you and what console you installed it on in my [Discord Server](https://discord.gg/sUCdKT6P), then go to #report-a-wad.
