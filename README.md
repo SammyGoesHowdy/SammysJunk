@@ -28,7 +28,7 @@ If you are on Wii U in the Aroma environment, you can load the Wii U forwarder o
 * If you don't have the Priiloader Wii U Forwarder, you can get it [here.](https://github.com/DacoTaco/priiloader/releases/latest)
 
 1. After doing the method for your console to enter Priiloader, you should be on a screen like the image below.
-<img src="https://github.com/SammyGoesHowdy/WADs/assets/105883916/aeaf80fc-42c9-4a49-82a7-f52af622b960"  width="320" height="240" />
+<img src="https://github.com/SammyGoesHowdy/WADs/assets/105883916/aeaf80fc-42c9-4a49-82a7-f52af622b960"  width="640" height="480" />
 
 2. Navigate down to "Homebrew Channel" and press (A)
 
@@ -52,7 +52,7 @@ If you are on Wii U in the Aroma environment, you can load the Wii U forwarder o
 3. Press (A), then press (A) again on your wad.
 
 4. Press D-PAD RIGHT to change the selected action from Install WAD to Uninstall WAD, then press (A).
-<img src="https://github.com/SammyGoesHowdy/WADs/assets/105883916/f6b5c0ff-ace7-424a-96be-32c7e57035ec"  width="320" height="240" />
+<img src="https://github.com/SammyGoesHowdy/WADs/assets/105883916/f6b5c0ff-ace7-424a-96be-32c7e57035ec"  width="640" height="480" />
 
 * If you've installed multiple WADs, do this for every WAD you installed.
 
