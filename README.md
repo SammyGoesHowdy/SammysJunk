@@ -1,67 +1,12 @@
-### Sammy's Junk has a website! Check it out [here](https://sammygoeshowdy.github.io/)!
 
 <img src="Sammy Junk.png" align="right" width="128" height="128"  />
 
 # Sammy's Junk (Information)
 
-This repository includes WADs, Wii U Forwarders, and Homebrew created by Me!
+This repository includes WADs, Wii U Forwarders, and Homebrew created by me!
 
-To install the Wii U Forwarders here, You need to have [Aroma](https://wiiu.hacks.guide/#/aroma/getting-started) setup on your Wii U console.
+* To install the Wii U Forwarders here, You need to have [Aroma](https://wiiu.hacks.guide/#/aroma/getting-started) setup on your Wii U console.
 
-To install the WADs & Wii Homebrew here, you need to have your [Wii](https://wii.hacks.guide/) or [vWii](https://wiiu.hacks.guide/#/vwii-modding) (Wii Mode on Wii U) modded. You can find a guide for this [here.](https://wii.hacks.guide/yawmme)
+* To install the WADs & Wii Homebrew here, you need to have your [Wii](https://wii.hacks.guide/) or [vWii](https://wiiu.hacks.guide/#/vwii-modding) (Wii Mode on Wii U) modded
 
-✅If it was installed correctly, you should see it on your Wii Menu.
-
-❌If you see a "The System Files are corrupted." error on any WADs here... then don't worry! You have some recovery options.
-
-# Uninstalling WADs Guide (In case you were bricked)
-
-**Section I - Entering HBC - Priiloader**
-
-If you are on Wii, you can enter Priiloader in this state by holding RESET on the console while turning it on.
-  - If you do not have Priiloader, ya dun goofed. But you can skip to `Section I - Entering HBC - Wii (no Priiloader)`
-
-If you are on Wii U in the Aroma environment, you can load the Wii U forwarder on your Wii U Menu.
-  - If you do not have Priiloader, and are using a Wii U follow `Section I - Entering HBC - vWii (no Priiloader)`
-
-
-* If you have not yet installed Aroma, here is a [guide](https://wiiu.hacks.guide/#/aroma/getting-started) to do so.
-
-* If you don't have the Priiloader Wii U Forwarder, you can get it [here.](https://github.com/DacoTaco/priiloader/releases/latest)
-
-1. After doing the method for your console to enter Priiloader, you should be on a screen like the image below.
-<img src="https://github.com/SammyGoesHowdy/WADs/assets/105883916/aeaf80fc-42c9-4a49-82a7-f52af622b960"  width="640" height="480" />
-
-2. Navigate down to "Homebrew Channel" and press (A)
-
-**Section I - Entering HBC - Wii (no Priiloader)**
-1. Follow [this guide](https://wii.hacks.guide/bluebomb) until step 13, then come back here. Ensure you do not press A on the Health and Safety screen.
-
-2. Once you are in the HackMii installer, exit it, you should now be in the HBC, continue to Section II
-
-**Section I - Entering HBC - vWii (no Priiloader)**
-1. Aroma: Download [this Boot2vWii forwarder](https://github.com/SammyGoesHowdy/SammysJunk/raw/main/Wii%20U%20Forwarders/HBC.wuhb)
-  - Tiramisu: Download [hbl2hbc](https://github.com/FIX94/hbl2hbc/releases) (just the .elf)
-2. Place it in `wiiu/apps`
-
-3. Open it and you should be taken to the HBC, once it does, continue to Section II
-
-**Section II - Uninstalling WADs**
-1. Select YAWM ModMii Edition (yawmME for short) from the list of homebrew.
-
-2. Select your source device.
-
-3. Press (A), then press (A) again on your wad.
-
-4. Press D-PAD RIGHT to change the selected action from Install WAD to Uninstall WAD, then press (A).
-<img src="https://github.com/SammyGoesHowdy/WADs/assets/105883916/f6b5c0ff-ace7-424a-96be-32c7e57035ec"  width="640" height="480" />
-
-* If you've installed multiple WADs, do this for every WAD you installed.
-
-* If you get an error while uninstalling, go to the [Nintendo Homebrew](https://discord.gg/nintendohomebrew) discord server and ask for help in English.
-
-Once it's uninstalled, Press (A) to go back, then press HOME to return to HBC. In HBC, press HOME again, and then "Return to System Menu".
-
-✅ Your Wii should now be unbricked!
-
-ℹ If you want, tell me what WAD bricked you and what console you installed it on in my [Discord Server](https://discord.gg/sUCdKT6P), then go to #report-a-wad.
+❌If you receive a black screen, freeze after the Health & Safety screen, or "The system files are corrupted" error, go to this [page](https://wiki.hacks.guide/wiki/Wii:Banner_Unbrick) to unbrick your console. Then go to my [Discord Server](https://discord.gg/sUCdKT6P), then go to #report-a-wad. and mention what WAD bricked you and what console you installed it on, using the template in the pinned messages.
