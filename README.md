@@ -1,6 +1,6 @@
 <img src="Sammy Junk.png" align="right" width="128" height="128"  />
 
-# Sammy's Junk (Information)
+# Sammy's Junk - Information
 
 This repository includes WADs, Wii U Forwarders, and Homebrew created by me!
 
