@@ -49,3 +49,9 @@ You can obtain it via the Riivolution app, then press the "Install" button to in
 This is preinstalled, there is no need to obtain it again.
 
 -------------------------
+
+### **Retro Rewind (WRET)**
+
+Install the WAD included with the Retro Rewind download.
+
+-------------------------
