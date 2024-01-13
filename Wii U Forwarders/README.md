@@ -52,6 +52,6 @@ This is preinstalled, there is no need to obtain it again.
 
 ### **Retro Rewind (WRET)**
 
-Install the WAD included with the Retro Rewind download.
+Install the WAD included with the [Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) download.
 
 -------------------------
