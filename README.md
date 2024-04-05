@@ -10,4 +10,4 @@ This repository includes WADs, Wii U Forwarders, and Homebrew created by me.
 
 ## For the Website Repository, visit:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SammyGoesHowdy&repo=sammygoeshowdy.github.io)](https://github.com/SammyGoesHowdy/sammygoeshowdy.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SammyGoesHowdy&repo=junk)](https://github.com/SammyGoesHowdy/junk)
